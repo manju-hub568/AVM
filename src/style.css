@@ -1,0 +1,117 @@
+.border {
+    border: 1px solid red;
+    height: 100vh;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.inp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.form {
+    width: 450px;
+}
+
+.bsub {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    position: fixed;
+    bottom: 250px;
+    left: 570px;
+    z-index: 1;
+}
+
+.btns {
+    width: 200px;
+    bottom: 45px;
+}
+
+.box {
+    width: 450px;
+    height: 300px;
+    overflow: auto;
+    z-index: 1;
+    background-color: white;
+}
+
+.sub-brd {
+    display: flex;
+    justify-content: space-around;
+}
+
+.place-value {
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.amnety-name {
+    /* border: 1px solid red; */
+    background-color: #f3f3f3;
+    margin-top: 5px;
+    padding: 2px;
+}
+
+.next {
+    position: fixed;
+    left: 92%;
+    bottom: 10%;
+}
+
+.Am-name {
+    color: #404e67;
+    font: 17px Roboto-regular;
+    font-weight: bold;
+}
+
+.subam-name {
+    margin-top: 1px;
+    color: #404e67;
+}
+
+.subam-name2 {
+    color: #404e67;
+}
+
+.form-inpts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h {
+    width: 300px;
+}
+
+.form2 {
+    box-shadow: 0px 0px 2px grey;
+    height: 450px;
+    width: 650px;
+}
+
+.k {
+    position: relative;
+    top:0;
+    right: 160px;
+}
+
+.pred {
+    width: 250px;
+}
+
+.inpt {
+    margin-top: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
